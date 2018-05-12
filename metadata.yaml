@@ -1,0 +1,28 @@
+_repo: Sebastian-Bach_46076
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46076-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Poole, Reginald Lane
+    alias: Poole, Reginald L. (Reginald Lane)
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '6864'
+    url: http://www.gutenberg.org/2009/agents/6864
+    wikipedia: http://en.wikipedia.org/wiki/Reginald_Lane-Poole
+description: ''
+gutenberg_issued: '2014-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bach, Johann Sebastian, 1685-1750'
+- !lcc 'ML'
+title: Sebastian Bach
+url: http://www.gutenberg.org/ebooks/46076
